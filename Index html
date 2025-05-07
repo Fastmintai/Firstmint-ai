@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Firstmint AI</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white font-sans">
+  <div class="max-w-xl mx-auto p-6 text-center">
+    <h1 class="text-3xl font-bold mb-2">Firstmint AI</h1>
+    <p class="text-gray-400 mb-6">Empowering your digital future with smart apps</p>
+
+    <div class="space-y-4">
+      <!-- App 1 -->
+      <div class="bg-gray-800 rounded-xl p-4 shadow">
+        <h2 class="text-xl font-semibold">App Name 1</h2>
+        <p class="text-gray-400 text-sm">Short description of App 1 goes here.</p>
+        <a href="https://your-app-link.com" class="inline-block mt-3 px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded">Download</a>
+      </div>
+
+      <!-- App 2 -->
+      <div class="bg-gray-800 rounded-xl p-4 shadow">
+        <h2 class="text-xl font-semibold">App Name 2</h2>
+        <p class="text-gray-400 text-sm">Short description of App 2 goes here.</p>
+        <a href="https://your-app-link.com" class="inline-block mt-3 px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded">Download</a>
+      </div>
+
+      <!-- Add more apps as needed -->
+    </div>
+  </div>
+</body>
+</html>
